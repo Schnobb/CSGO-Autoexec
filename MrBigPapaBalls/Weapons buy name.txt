@@ -1,0 +1,59 @@
+Buymenu number - Name of weapon (T only/CT only) - Price - Name for binds
+
+### 1 - Pistols
+1              - Glock-18                        - $200  - glock
+1              - P2000                           - $200  - hkp2000
+1              - USP-S                           - $200  - hkp2000
+2              - Dual Berettas                   - $500  - elite
+3              - P250                            - $300  - p250
+3              - CZ75-Auto                       - $300  - p250
+4              - Tec-9                           - $500  - tec9
+4              - Five-SeveN                      - $500  - fn57
+5              - Desert Eagle                    - $800  - deagle
+
+### 2 - Heavy
+1              - Nova                            - $1200 - nova
+2              - XM1014                          - $2000 - xm1014
+3              - Sawed-Off                       - $1200 - sawedoff
+3              - MAG-7                           - $1800 - mag7
+4              - M249                            - $5200 - m249
+5              - Negev                           - $5700 - negev
+
+### 3 - SMGs
+1              - MAC-10                          - $1050 - mac10
+1              - MP9                             - $1250 - mp9
+2              - MP7                             - $1700 - mp7
+3              - UMP-45                          - $1200 - ump45
+4              - P90                             - $2350 - p90
+5              - PP-Bizon                        - $1400 - bizon
+
+### 4 - Rifles
+1              - Galil AR                        - $2000 - galilar
+1              - FAMAS                           - $2250 - famas
+2              - AK47                            - $2700 - ak47
+2              - M4A4                            - $3100 - m4a1
+2              - M4A1-S                          - $2900 - m4a1
+3              - SSG 08                          - $1700 - ssg08
+4              - SG 553                          - $3000 - sg556
+4              - AUG                             - $3300 - aug
+5              - AWP                             - $4750 - awp
+6              - G3SG1                           - $5000 - g3sg1
+6              - SCAR-20                         - $5000 - scar20
+
+### 5 - Gear
+1              - Kevlar Vest                     - $650  - vest
+2              - Kevlar + Helmet                 - $1000 - vesthelm
+3              - Zeus x27                        - $400  - Taser
+4              - Defuse Kit                      - $400  - defuser
+4              - Rescue Kit                      - $400  - defuser
+
+### 6 - Grenades
+1              - Molotov                         - $400  - molotov
+1              - Incen. Grenade                  - $600  - incgrenade
+2              - Decoy Grenade                   - $50   - decoy
+3              - Flashbang                       - $200  - flashbang
+4              - High Explosive Grenade          - $300  - hegrenade
+5              - Smoke Grenade                   - $300  - smokegrenade
+
+### Other
+X              - Knife                           - n.a.     - n.a.
